@@ -15,6 +15,7 @@ h2 {
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
+
 }
 h3 {
   font-size: 2rem;
@@ -118,6 +119,9 @@ h3 {
 /* pricing  */
 #pricing {
   padding: 100px;
+}
+.amount{
+    font-size: 1.8rem;
 }
 .pricing-col {
   padding: 3% 2%;
